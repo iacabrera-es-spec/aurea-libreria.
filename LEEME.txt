@@ -1,0 +1,4 @@
+AUREA - SISTEMA DE INFORMACION PARA LIBRERIA
+1. Abre index.html en tu navegador.
+2. Admin: admin@aurea.com / admin123 | Vendedor: vendedor@aurea.com / ventas123
+3. Ejecuta schema_aurea_supabase.sql en Supabase SQL Editor.
